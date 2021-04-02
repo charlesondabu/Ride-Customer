@@ -10,7 +10,7 @@ import java.util.Locale;
 
 public class Constant {
 
-    private static final String BASE_URL = "https://sokowall.co.ke/";
+    private static final String BASE_URL = "https://nokri.propawork.com/";
     public static final String FCM_KEY = "AAAAaN67r7M:APA91bFlPPwDoxhJPLiD4tLjuspGj9cAn_G0z8ff6wp9XZW62DJ72lUSeqiOQBjaCeZqsiVKgKziWAv5T1_QgrALNNaZruRJGz1B5dGWAG2nx59yDIpog1GKIefHrRnjsZZpUvSgyQR3";
     public static final String CONNECTION = BASE_URL + "api/";
     public static final String IMAGESFITUR = BASE_URL + "images/service/";
