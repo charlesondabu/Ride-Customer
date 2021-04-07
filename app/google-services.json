@@ -37,12 +37,57 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:450413440947:android:61fe8e8abae0fd5de0a5c6",
+        "mobilesdk_app_id": "1:450413440947:android:859a95dc0e4fa947e0a5c6",
+        "android_client_info": {
+          "package_name": "com.ondabu.obndmerchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450413440947-1o27qrs6qaa0t13flafc38prrbkmbk5d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ondabu.obndmerchant",
+            "certificate_hash": "19bd9f089dbee5fe0552e308de17203287ca9ddc"
+          }
+        },
+        {
+          "client_id": "450413440947-kinsu791dk5pg6jvaiqsukfesjej5e9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkGhb8aV1yOX0LyDBk8dfmYRtGdC-WEjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450413440947-kinsu791dk5pg6jvaiqsukfesjej5e9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450413440947:android:4d6bbd97b3e499f7e0a5c6",
         "android_client_info": {
           "package_name": "com.ondabu.onbnddriver"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "450413440947-o01i7slevtck4vmbntm35q967a07iieg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ondabu.onbnddriver",
+            "certificate_hash": "19bd9f089dbee5fe0552e308de17203287ca9ddc"
+          }
+        },
         {
           "client_id": "450413440947-kinsu791dk5pg6jvaiqsukfesjej5e9p.apps.googleusercontent.com",
           "client_type": 3
